@@ -1,0 +1,23 @@
+# Données et DVC
+data/
+.dvc/
+.dvc/cache/
+
+# Modèles nécessaires à l'inférence
+# models/
+
+# Git
+.git/
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnements
+.venv/
+env/
+
+# Logs
+*.log
