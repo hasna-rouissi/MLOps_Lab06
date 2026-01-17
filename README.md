@@ -39,6 +39,62 @@
 <img width="945" height="75" alt="image" src="https://github.com/user-attachments/assets/85dc8c5d-875a-4795-b4c2-234eabd0eef3" />
 
 ## Étape 9 : Gérer les secrets (MONITORING_TOKEN)
+<img width="945" height="191" alt="image" src="https://github.com/userattachments/assets/9a2ce5c4-08ba-42f9-8f7d-338d3980683b" />
+<img width="631" height="284" alt="image" src="https://github.com/user-attachments/assets/fab95fef-c2c3-48b6-9cdf-1d9698ef1626" />
+<img width="945" height="323" alt="image" src="https://github.com/user-attachments/assets/a36ea89b-4e47-46a0-8e56-8e5433015c46" />
+<img width="945" height="674" alt="image" src="https://github.com/user-attachments/assets/b447a984-8ad1-46bb-ba66-47614702e594" />
+<img width="945" height="131" alt="image" src="https://github.com/user-attachments/assets/4adbbc30-6c35-407a-9d39-7699c2d92b71" />
+
+## Étape 10 : Mise en place des endpoints de santé et des probes Kubernetes pour l’API Churn
+<img width="945" height="452" alt="image" src="https://github.com/user-attachments/assets/4b70a102-fe54-4e67-9276-07c9fd6948e5" />
+<img width="945" height="38" alt="image" src="https://github.com/user-attachments/assets/ce91d638-e290-43f0-8337-cdf8e0faefa3" />
+
+## Étape 11 : Ajouter les probes (liveness / readiness / startup)
+<img width="945" height="571" alt="image" src="https://github.com/user-attachments/assets/679934b7-4154-41d3-9563-f1922158e51f" />
+<img width="945" height="44" alt="image" src="https://github.com/user-attachments/assets/2ee777af-8dba-42b1-ac44-e3ac7bb1e35a" />
+<img width="945" height="789" alt="image" src="https://github.com/user-attachments/assets/42d64ac6-c516-468a-9048-63a4731f6efc" />
+<img width="945" height="736" alt="image" src="https://github.com/user-attachments/assets/5ada296c-6b83-4f0d-aff3-d6dbe20b27c0" />
+<img width="945" height="134" alt="image" src="https://github.com/user-attachments/assets/e85ad10c-0113-47d1-97f4-9b289fe22466" />
+<img width="838" height="120" alt="image" src="https://github.com/user-attachments/assets/13ade099-c556-4682-87bc-33a421c5bb43" />
+
+## Étape 12 : Volume persistant pour registry + logs
+<img width="908" height="231" alt="image" src="https://github.com/user-attachments/assets/548924f9-7629-4d97-9d39-42a1f15affd5" />
+<img width="945" height="350" alt="image" src="https://github.com/user-attachments/assets/0b5877bc-8435-4ad2-a8aa-18a978512eab" />
+<img width="945" height="92" alt="image" src="https://github.com/user-attachments/assets/dfee5d39-13cb-4f57-9918-b0709620feb2" />
+<img width="945" height="233" alt="image" src="https://github.com/user-attachments/assets/092ae97b-79f7-418d-bb44-81e74bad0127" />
+<img width="942" height="783" alt="image" src="https://github.com/user-attachments/assets/5092c5a7-b517-474f-a97e-9c6121f6383d" />
+<img width="945" height="66" alt="image" src="https://github.com/user-attachments/assets/7aa190ed-1e41-4e17-b7c0-c535be369f85" />
+<img width="849" height="477" alt="image" src="https://github.com/user-attachments/assets/d0d6321f-dfbc-4094-8a75-ece3854ed5bf" />
+<img width="945" height="515" alt="image" src="https://github.com/user-attachments/assets/c3e3317e-b7b4-4619-ac3a-be3d5d4afedd" />
+<img width="945" height="197" alt="image" src="https://github.com/user-attachments/assets/8967a4e3-4caa-473a-bac2-f6c1e0fcce7c" />
+<img width="945" height="91" alt="image" src="https://github.com/user-attachments/assets/82305cd9-4515-4ea4-91be-0e6b58e76488" />
+
+## Étape 13: NetworkPolicy
+<img width="945" height="232" alt="image" src="https://github.com/user-attachments/assets/96cb49ef-837d-4a9f-9c24-d78d9cac11a1" />
+<img width="881" height="545" alt="image" src="https://github.com/user-attachments/assets/df657bd6-5109-4b89-8fa2-7e35b233b70b" />
+<img width="945" height="141" alt="image" src="https://github.com/user-attachments/assets/687a24a0-3287-45f9-8e65-e7ff64cfcac2" />
+
+## Étape 14 : Vérifications finales
+<img width="945" height="194" alt="image" src="https://github.com/user-attachments/assets/efd35af6-ef48-4a01-b569-19c9c97a8097" />
+<img width="945" height="575" alt="image" src="https://github.com/user-attachments/assets/3d3b551a-a96c-4bed-ae2f-b46ffc2cd14a" />
+<img width="945" height="703" alt="image" src="https://github.com/user-attachments/assets/f3636d3d-4cce-49c2-8d2a-7113b6c45744" />
+<img width="945" height="175" alt="image" src="https://github.com/user-attachments/assets/915db964-3892-4f07-98b4-ff73007c3fe3" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
