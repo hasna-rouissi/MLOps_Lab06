@@ -39,7 +39,7 @@
 <img width="945" height="75" alt="image" src="https://github.com/user-attachments/assets/85dc8c5d-875a-4795-b4c2-234eabd0eef3" />
 
 ## Étape 9 : Gérer les secrets (MONITORING_TOKEN)
-<img width="945" height="191" alt="image" src="https://github.com/userattachments/assets/9a2ce5c4-08ba-42f9-8f7d-338d3980683b" />
+<img width="945" height="191" alt="image" src="https://github.com/user-attachments/assets/08e44022-b79c-4966-9d2d-4b0d74168cd3" />
 <img width="631" height="284" alt="image" src="https://github.com/user-attachments/assets/fab95fef-c2c3-48b6-9cdf-1d9698ef1626" />
 <img width="945" height="323" alt="image" src="https://github.com/user-attachments/assets/a36ea89b-4e47-46a0-8e56-8e5433015c46" />
 <img width="945" height="674" alt="image" src="https://github.com/user-attachments/assets/b447a984-8ad1-46bb-ba66-47614702e594" />
